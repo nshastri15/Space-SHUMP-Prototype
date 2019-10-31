@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{E6B74D26-8F63-F2DF-E59D-B2B8819346BC}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/Parallax.cs">
     <Files>
-      <File FileName="Assets/__Scripts/Hero.cs" Line="174" Column="2" />
-      <File FileName="Assets/__Scripts/Shield.cs" Line="31" Column="2" />
+      <File FileName="Assets/__Scripts/Hero.cs" Line="35" Column="18" />
+      <File FileName="Assets/__Scripts/Shield.cs" Line="36" Column="2" />
       <File FileName="Assets/__Scripts/BoundsCheck.cs" Line="74" Column="2" />
-      <File FileName="Assets/__Scripts/Enemy.cs" Line="129" Column="2" />
-      <File FileName="Assets/__Scripts/Main.cs" Line="37" Column="38" />
-      <File FileName="Assets/__Scripts/Projectile.cs" Line="43" Column="2" />
+      <File FileName="Assets/__Scripts/Enemy.cs" Line="79" Column="55" />
+      <File FileName="Assets/__Scripts/Main.cs" Line="33" Column="38" />
+      <File FileName="Assets/__Scripts/Projectile.cs" Line="55" Column="2" />
       <File FileName="Assets/__Scripts/Enemy_1.cs" Line="49" Column="2" />
       <File FileName="Assets/__Scripts/Enemy_2.cs" Line="62" Column="2" />
       <File FileName="Assets/__Scripts/Enemy_3.cs" Line="21" Column="73" />
-      <File FileName="Assets/__Scripts/Weapon.cs" Line="138" Column="2" />
-      <File FileName="Assets/__Scripts/Utils.cs" Line="1" Column="1" />
-      <File FileName="Assets/__Scripts/PowerUp.cs" Line="97" Column="2" />
+      <File FileName="Assets/__Scripts/Weapon.cs" Line="154" Column="2" />
+      <File FileName="Assets/__Scripts/Utils.cs" Line="13" Column="82" />
+      <File FileName="Assets/__Scripts/PowerUp.cs" Line="5" Column="17" />
       <File FileName="Assets/__Scripts/Enemy_4.cs" Line="206" Column="1" />
+      <File FileName="Assets/__Scripts/Parallax.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
